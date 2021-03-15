@@ -20,20 +20,19 @@ About Me:
 ## Languages and Tools i know:
 
 -  <b>Languages</b>           : C, C++, Python <br /> <br /> 
--  <b>Web development</b>     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
--  <b>Databases</b>           : MongoDb, MySql           <br /> <br />
--  <b>Tools</b>               : Git/Github, VsCode, Postman, Heroku, Netlify <br /> <br />
--  <b>Currently Learning</b>  : Docker , 
+-  <b>IT Constructs</b>       : Data Structures, OS   <br /> <br />
+-  <b>Databases</b>           : MySQL, SQL           <br /> <br />
+-  <b>Frameworks and tools</b>: Flask, PowerBI, Heroku, <br /> <br />
+-  <b>Others</b>              : Machine Learning Tensor Flow.<br /> <br />
+-  <b>Currently Learning</b>  : JavaScript, Recommendation system
 
 <br />
 <br />
 
 ---
-
+- ⚡ Don't forget to check out my latest projects:
 
 [instagram]: https://www.instagram.com/___._k_u_n_a_l_.___/
 [linkedin]: https://www.linkedin.com/in/kunal10713/
 [hackerrank]: https://www.hackerrank.com/kunal10713
 
-
-- ⚡ Don't forget to check out my latest projects :
