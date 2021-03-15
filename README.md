@@ -28,7 +28,6 @@ About Me:
 
 <br />
 <br />
-
 ---
 - ⚡ Don't forget to check out my latest projects:
 
