@@ -17,7 +17,7 @@ About Me:
 [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 <br />
 
-## Languages and Tools i know:
+## Languages and Tools I know:
 
 -  <b>Languages</b>           : C, C++, Python <br /> <br /> 
 -  <b>IT Constructs</b>       : Data Structures, OS   <br /> <br />
