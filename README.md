@@ -22,8 +22,7 @@ About Me:
 -  <b>Languages</b>           : C, C++, Python <br /> <br /> 
 -  <b>IT Constructs</b>       : Data Structures, OS   <br /> <br />
 -  <b>Databases</b>           : MySQL         <br /> <br />
--  <b>Frameworks and tools</b>: Flask, PowerBI, Heroku <br /> <br />
--  <b>Others</b>              : Machine Learning, Tensor Flow.<br /> <br />
+-  <b>Others</b>              : Machine Learning.<br /> <br />
 -  <b>Currently Learning</b>  : JavaScript, Recommendation system
 
 <br />
