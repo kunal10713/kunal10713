@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Kunal 
 
-## I'm a 3rd Year Computer Science Student at Chandigarh University
+## Working As SRE at Cohesity
 <a href="https://github.com/"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="220"> </a>
 About Me:
 
-- 🔭 Aspiring Data Scientist| Data Analyst
-- 👯 I also do Competitive Programming
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Learning Docker and Kubernetes
 - ⚡ Looking for collaborations
 
 
@@ -19,11 +17,11 @@ About Me:
 
 ## Languages and Tools I know:
 
--  <b>Languages</b>           : C, C++, Python <br /> <br /> 
+-  <b>Languages</b>           : C++, Python <br /> <br /> 
 -  <b>IT Constructs</b>       : Data Structures, OS   <br /> <br />
 -  <b>Databases</b>           : MySQL         <br /> <br />
 -  <b>Others</b>              : Machine Learning.<br /> <br />
--  <b>Currently Learning</b>  : JavaScript, Recommendation system
+-  <b>Currently Learning</b>  : Kubernetes, Shell scripting
 
 <br />
 <br />
