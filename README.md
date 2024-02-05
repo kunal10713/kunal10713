@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kunal 
 
-## Working As SRE at Cohesity
+## Working as SRE at Cohesity
 <a href="https://github.com/"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="220"> </a>
 About Me:
 
