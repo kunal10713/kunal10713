@@ -17,11 +17,11 @@ About Me:
 
 ## Languages and Tools I know:
 
--  <b>Languages</b>           : C++, Python <br /> <br /> 
+-  <b>Languages</b>           : C++, Python, Shell scripting <br /> <br /> 
 -  <b>IT Constructs</b>       : Data Structures, OS   <br /> <br />
 -  <b>Databases</b>           : MySQL         <br /> <br />
--  <b>Others</b>              : Machine Learning.<br /> <br />
--  <b>Currently Learning</b>  : Kubernetes, Shell scripting
+-  <b>Others</b>              : Linux, Docker <br /> <br />
+-  <b>Currently Learning</b>  : Kubernetes, AWS, Terraform
 
 <br />
 <br />
