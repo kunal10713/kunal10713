@@ -4,7 +4,7 @@
 <a href="https://github.com/"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="220"> </a>
 About Me:
 
-- 🥅 2024 Goals: Learning Docker and Kubernetes
+- 🥅 2025 Goals: Learning Docker, Kubernetes, Terraform and AWS
 - ⚡ Looking for collaborations
 
 
